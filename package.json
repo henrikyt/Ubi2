@@ -1,0 +1,38 @@
+{
+  "name": "ionic2-boilerplate",
+  "version": "0.26.2",
+  "description": "An Ionic Starter kit featuring Ionic, Karma, Protractor, Jasmine, CI, and much more",
+  "keywords": [
+    "ionic2",
+    "angular2",
+    "roolup",
+    "webpack",
+    "yarn",
+    "typescript",
+    "karma",
+    "protractor",
+    "istanbul",
+    "gitlab CI"
+  ],
+  "author": "Henri Kytökangas <henrikyt@gmail.com>",
+  "homepage": "https://github.com/marcoturi/ionic2-boilerplate",
+  "license": "MIT",
+  "scripts": {
+    "start": "cd server && npm start"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcoturi/ionic2-boilerplate"
+  },
+  "bugs": {
+    "url": "https://github.com/marcoturi/ionic2-boilerplate/issues"
+  },
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3"
+  }
+}
